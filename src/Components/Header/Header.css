@@ -1,0 +1,25 @@
+.encabezado{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Header {
+    height:15rem;
+    width: 100vw;
+    display: flex;
+    background-color: rgb(42, 121, 113);
+    align-items:center;
+    justify-content:center;
+}
+
+.mary_img{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    margin: 0.5rem;  
+    position: relative;
+    right:15rem;
+}

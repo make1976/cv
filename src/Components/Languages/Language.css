@@ -1,0 +1,8 @@
+.languages{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 10px;
+}

@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+body{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: #e5eceb;
+
+}
+
+
+.container-Interest-languages{
+  display: flex;
+  flex-direction: row;
+  margin-right: 3px;
+}
+
+.Academic{
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.container{
+  width: 50%;
+  padding: 10px;
+}
+
+.Skills{
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills-container{
+  width: 50%;
+  padding: 10px;
+}
+
+.skills-name{
+  margin-right: 0.8rem;
+}
+
+.Interest-container{
+  width: 50%;
+  padding: 10px;
+}
+
+.Interest-container{
+  margin-right: 0.8rem;
+}
