@@ -14,24 +14,6 @@ export const Header = () => {
         <p href="">{data.address}</p>
       </div>
     </header>
-    // <div className='encabezado'><h1>HOJA DE VIDA</h1>
-    //   <div className='Header'>
-    //     <div className='navbar'>
-    //       <nav>
-    //         <ul>
-    //           <img src={data.image} alt="image" className="mary_img" />
-    //           <>
-    //             <br />
-    //            
-    //           </>
-    //         </ul>
-    //       </nav>
-    //       <div />
-    //       <br />
-    //     </div>
-    //   </div>
-    // </div>
-
   )
 };
 

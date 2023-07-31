@@ -1,6 +1,13 @@
-.Skills{
-    width: 50%;
-    height: 50%;
+.Skills {
+    height: 70%;
+    width: 100%;
+    text-align: left;
+    background-color: #d1e3eb;
+    padding: 26px;
+    font-family: sans-serif;
+}
+
+.container-Academic-Skills {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }

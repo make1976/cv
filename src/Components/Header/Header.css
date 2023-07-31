@@ -4,15 +4,20 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-family: sans-serif;
 }
 
+.header-elements > p {
+    color: antiquewhite;
+}
 .Header {
     height:15rem;
     width: 100vw;
     display: flex;
-    background-color: rgb(42, 121, 113);
+    background-color: #113746;
     align-items:center;
     justify-content:center;
+    font-family: sans-serif;
 }
 
 .mary_img{

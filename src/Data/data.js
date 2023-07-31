@@ -27,7 +27,7 @@ export const data = {
     ],
     experience: [
       {
-        company: "PugStar",
+        company: "independent",
         endDate: "Present",
         jobDescription:"one year of experience in software development in javascript",
         jobTitle: "Backend",
